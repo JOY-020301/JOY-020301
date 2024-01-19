@@ -7,5 +7,5 @@ Some Peronal Projects:
 - 🚀 CLA: clacourse-2022-JOY-020301, which is a course about Computational linear algebra.
 - 💻 Math70076DataSci: A Data Sci course.
 - 💀 UROP2023: Human Robot interaction project | Computer Vision
-- 👾 LEAN： https://github.com/leanprover-community/mathlib/tree/xena-gaussian ｜Math Proof by computer | Gaussian Distribution
+- 👾 LEAN： https://github.com/leanprover-community/mathlib/tree/xena-gaussian ｜Math Proof by computer | Gaussian Distri
 
